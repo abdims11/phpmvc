@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<title>Halaman <?= $data['judul']; ?></title>
 	<link rel="stylesheet" href="<?= BASEURL;  ?>/css/bootstrap.css">
+	<link rel="icon" href="<?= BASEURL; ?>/img/favicon-16x16.png" type="image/ico">
 </head>
 <body>
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
